@@ -1,11 +1,9 @@
 import React from 'react';
 import styled from 'styled-components';
 import cohortList from '../config/cohorts';
-import projectList from '../config/projects';
 import CohortCard from './CohortCard';
 import { Specific } from './Footer';
-import { Heading, SubHeading } from './Homepage';
-import { Card, CardAbout, CardTitle } from './Styled';
+import { Heading } from './Homepage';
 import bgImg from '../assets/bg.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
@@ -148,27 +146,6 @@ const Description = styled.p`
   margin-bottom: 10px;
   padding: 0px 30px;
   color: #000000;
-`;
-
-const Titles = styled.p`
-  font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI',
-    Roboto, Oxygen, Ubuntu, Cantarell, 'Montserrat', 'Helvetica Neue',
-    sans-serif;
-  font-style: normal;
-  font-size: 26px;
-  font-weight: 600;
-  text-align: center;
-  margin: 0px;
-  padding: 0px 30px;
-  color: #000000;
-`;
-
-const HorizontalLine = styled.div`
-  width: 10%;
-  height: 1px;
-  margin-top: 3px;
-  background-color: #000;
-  opacity: 1;
 `;
 
 const LinkContainer = styled.div`
