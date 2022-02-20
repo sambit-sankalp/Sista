@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sista/static/css/main.2b28006f.css",
+    "main.js": "/Sista/static/js/main.6459bb77.js",
+    "static/media/bg.png": "/Sista/static/media/bg.b06aa6314f8397c458b1.png",
+    "static/media/cohort.png": "/Sista/static/media/cohort.fb503e1705802a52a15f.png",
+    "static/media/home.png": "/Sista/static/media/home.a326a5b921152dab3a74.png",
+    "static/media/project.png": "/Sista/static/media/project.066a182fd38dc8a04ba2.png",
+    "static/media/Auth.png": "/Sista/static/media/Auth.f162332626e8633f8889.png",
+    "static/media/explore2.png": "/Sista/static/media/explore2.d9a72c6598ccee6cfa40.png",
+    "static/media/explore1.png": "/Sista/static/media/explore1.3ebb45b0a26a6d4aa10f.png",
+    "static/media/profile.png": "/Sista/static/media/profile.2d1640fa80dffb05720a.png",
+    "static/media/explore3.png": "/Sista/static/media/explore3.ca551915ab4db067390d.png",
+    "index.html": "/Sista/index.html",
+    "main.2b28006f.css.map": "/Sista/static/css/main.2b28006f.css.map",
+    "main.6459bb77.js.map": "/Sista/static/js/main.6459bb77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b28006f.css",
+    "static/js/main.6459bb77.js"
+  ]
+}
